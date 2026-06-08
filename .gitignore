@@ -1,0 +1,10 @@
+﻿application/config/database.php
+application/config/config.php
+application/config/purchase_key.php
+uploads/
+application/logs/
+application/cache/
+*.bak
+*.sql
+*.zip
+**/bak.*
